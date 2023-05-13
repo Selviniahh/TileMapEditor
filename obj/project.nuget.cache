@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "I/E2GCDe56aLbysBo4qXF5xEQzgs/1qQc97tXqGy5O+YorfM45Q1I5aJJCL5pCXPMNuU8d+4n/BoGdnNlI2uVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xqwys\\Desktop\\imguiTut\\imguiTut.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xqwys\\.nuget\\packages\\imgui.net\\1.89.4\\imgui.net.1.89.4.nupkg.sha512",
+    "C:\\Users\\xqwys\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\xqwys\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\xqwys\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\xqwys\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\xqwys\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\xqwys\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

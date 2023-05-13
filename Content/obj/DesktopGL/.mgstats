@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/xqwys/RiderProjects/MainProject/imguiTut/Content/Dungeon_Tileset.png","C:/Users/xqwys/RiderProjects/MainProject/imguiTut/Content/bin/DesktopGL/Dungeon_Tileset.xnb","TextureProcessor","Texture2DContent",39901,1310805,0.1202691
+"C:/Users/xqwys/RiderProjects/MainProject/imguiTut/Content/final.png","C:/Users/xqwys/RiderProjects/MainProject/imguiTut/Content/bin/DesktopGL/final.xnb","TextureProcessor","Texture2DContent",135,1685,0.00109
+"C:/Users/xqwys/RiderProjects/MainProject/imguiTut/Content/font.spritefont","C:/Users/xqwys/RiderProjects/MainProject/imguiTut/Content/bin/DesktopGL/font.xnb","FontDescriptionProcessor","SpriteFontContent",2065,70687,0.0781946
+"C:/Users/xqwys/RiderProjects/MainProject/imguiTut/Content/tileset_dungeon.png","C:/Users/xqwys/RiderProjects/MainProject/imguiTut/Content/bin/DesktopGL/tileset_dungeon.xnb","TextureProcessor","Texture2DContent",10885,306937,0.0069152

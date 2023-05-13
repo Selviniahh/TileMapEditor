@@ -1,0 +1,5 @@
+C:\Users\Selviniah\RiderProjects\imguiTut\imguiTut\obj\Debug\netcoreapp3.1\imguiTut.csproj.AssemblyReference.cache
+C:\Users\Selviniah\RiderProjects\imguiTut\imguiTut\obj\Debug\netcoreapp3.1\imguiTut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Selviniah\RiderProjects\imguiTut\imguiTut\obj\Debug\netcoreapp3.1\imguiTut.AssemblyInfoInputs.cache
+C:\Users\Selviniah\RiderProjects\imguiTut\imguiTut\obj\Debug\netcoreapp3.1\imguiTut.AssemblyInfo.cs
+C:\Users\Selviniah\RiderProjects\imguiTut\imguiTut\obj\Debug\netcoreapp3.1\imguiTut.csproj.CoreCompileInputs.cache
